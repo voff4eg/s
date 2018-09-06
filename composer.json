@@ -1,0 +1,20 @@
+{
+  "name": "egorov.vladimir/sum",
+  "description": "sum package",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "voff4eg",
+      "email": "vladimir.eogor.res@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": "^7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Egorov\\": "src"
+    }
+  }
+}
