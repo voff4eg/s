@@ -1,5 +1,7 @@
 <?php
 
+namespace Egorov;
+
 class Sum
 {
     /**
